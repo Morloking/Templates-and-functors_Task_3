@@ -21,7 +21,7 @@ public:
 	}
 	
 private:
-	int sum{ 0 };
+	T sum{ 0 };
 	int count{ 0 };
 };
 int main() {
